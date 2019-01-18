@@ -1,0 +1,1 @@
+jupyter notebook --notebook-dir "C:\DevProject\PyProject\jupyter_doc"
